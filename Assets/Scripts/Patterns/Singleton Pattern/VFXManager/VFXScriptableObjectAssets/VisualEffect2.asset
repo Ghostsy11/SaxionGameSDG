@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 095d6c03badd42248835795d49462381, type: 3}
+  m_Name: VisualEffect2
+  m_EditorClassIdentifier: 
+  SingleVFX: {fileID: 0}
+  RandomVFX:
+  - {fileID: 7496802039087327814, guid: 1bb24d3235aac384abfb0975c2f7b374, type: 3}
+  - {fileID: 6197656913616688245, guid: 319dacd725f3ee94cb197645b451aa7a, type: 3}
