@@ -7,11 +7,11 @@ namespace Assets.Scripts.Patterns.Singleton_Pattern.VFXManager
     {
         [Header("Test 1")]
         [SerializeField]
-        private VisualEffect visualEffectSO;
+        private CustomVisualEffect visualEffectSO;
 
         [Header("Test 2")]
         [SerializeField]
-        private VisualEffect VisualEffectso;
+        private CustomVisualEffect VisualEffectso;
 
         /// <summary>
         /// Initializes this manager.

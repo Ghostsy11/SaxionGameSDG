@@ -3,7 +3,7 @@ using UnityEngine;
 namespace Assets.Scripts.Patterns.Singleton_Pattern.VFXManager
 {
     [CreateAssetMenu(fileName = "VisualEffect", menuName = "SingleVisual Effect")]
-    public class VisualEffect : ScriptableObject
+    public class CustomVisualEffect : ScriptableObject
     {
         [Header("Audio Data")]
         [Tooltip("Single ParticleSystem to be played by the VisualEffectsManager.")]
